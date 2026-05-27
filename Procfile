@@ -1,0 +1,1 @@
+worker: python cashkeeper_bot_v2.py
